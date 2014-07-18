@@ -33,8 +33,8 @@
 <row Name="Description" Value="my package" Value1="" Value2="" Value3="" Value4=""/>
 <row Name="Homepage" Value="" Value1="" Value2="" Value3="" Value4=""/>
 <row Name="License" Value="Commercial" Value1="" Value2="" Value3="" Value4=""/>
-<row Name="Name" Value="MYPACKAGE2" Value1="" Value2="" Value3="" Value4=""/>
-<row Name="Title" Value="MYPACKAGE 1.0.0" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="Name" Value="mypackage2" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="Title" Value="mypackage2 1.0.0" Value1="" Value2="" Value3="" Value4=""/>
 <row Name="Version" Value="2.0.0" Value1="" Value2="" Value3="" Value4=""/>
 </Variables>
 </VARA>
